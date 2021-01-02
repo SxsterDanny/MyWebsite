@@ -1,0 +1,48 @@
+footer {
+text-align: center;
+color: grey;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body {
+    text-align: center;
+}
+#logo {
+    color: black;
+    background-color: orange;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 4px;
+}
+#logoname {
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navigation a {
+    color: gray;
+    padding: 8px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#navigation a:hover {
+    background-color: yellow;
+}
+
+#footer12 {
+    color: grey;
+    text-align: center;
+}
+
+#slider {
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
